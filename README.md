@@ -187,7 +187,7 @@ If you use this benchmark suite or find its empirical insights helpful in your r
 ```bibtex
 @misc{temporal_netflow_v3,
   title={Temporal NetFlow Benchmark v3: Real-Sequence Intrusion Detection with KAN and Sequence Deep Learning},
-  author={Kapoor, Tanmay and Contributors},
+  author={Vedant Kapoor, Tanmay Kaul and Sanyam Jain},
   year={2026},
   howpublished={\url{https://github.com/TanmayKapoor/temporal_benchmark_v3}}
 }
