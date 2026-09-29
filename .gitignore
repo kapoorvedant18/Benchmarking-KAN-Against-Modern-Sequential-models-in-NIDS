@@ -1,0 +1,47 @@
+# ==========================================
+# Datasets (ignore raw data files)
+# ==========================================
+/data/*
+!/data/NetFlow_v3_Features.csv
+!/data/.gitkeep
+
+# Catch raw dataset files if placed in the root folder
+/BigFlow-NIDS.csv
+/NF-*.csv
+*.pcap
+*.pcapng
+*.parquet
+*.feather
+*.arrow
+*.h5
+*.hdf5
+*.tar.gz
+*.csv.gz
+*.zip
+*.7z
+
+# ==========================================
+# Python bytecode & cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Virtual environments
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# IDE & System files
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

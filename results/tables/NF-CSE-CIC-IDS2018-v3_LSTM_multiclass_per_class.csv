@@ -1,0 +1,3 @@
+class_index,class_name,precision,recall,f1_score,support
+0,Benign,0.44018353763455204,1.0,0.6112881117326714,33001
+1,FTP-BruteForce,0.0,0.0,0.0,41970
